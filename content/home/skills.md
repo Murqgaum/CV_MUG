@@ -43,12 +43,12 @@ feature:
 #  name: "Emojiness"
 #  description: "100%"  
 
-Uncomment to use custom SVG icons.
-Place your custom SVG icon in `assets/media/icons/`.
-Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-- icon: qgis
-icon_pack: custom
-name: QGIS
-description: 
+# Uncomment to use custom SVG icons.
+# Place your custom SVG icon in `assets/media/icons/`.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+# - icon: qgis
+# icon_pack: custom
+# name: QGIS
+# description: 
 ---
