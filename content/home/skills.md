@@ -24,10 +24,6 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
   - description: 
   icon: google-drive
   icon_pack: fas
