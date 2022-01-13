@@ -24,10 +24,18 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description: 
   icon: camera-retro
   icon_pack: fas
   name: Photography
+  - description: 
+  icon: google-drive
+  icon_pack: fas
+  name: Googledocs
+   - description: 
+  icon: layer-group
+  icon_pack: fab
+  name: GIS Analysis & mapping
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -35,12 +43,12 @@ feature:
 #  name: "Emojiness"
 #  description: "100%"  
 
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+Uncomment to use custom SVG icons.
+Place your custom SVG icon in `assets/media/icons/`.
+Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
 - icon: qgis
-icon_pack: "custom"
+icon_pack: custom
 name: QGIS
-description: "90%"
+description: 
 ---
