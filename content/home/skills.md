@@ -24,15 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-  - description: 
-  icon: google-drive
-  icon_pack: fas
-  name: Googledocs
-   - description: 
-  icon: layer-group
-  icon_pack: fab
-  name: GIS Analysis & mapping
-
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
