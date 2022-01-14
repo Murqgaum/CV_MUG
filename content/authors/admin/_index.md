@@ -19,7 +19,7 @@ social: []
 organizations: []
 education:
   courses:
-    - course: M.Sc. Master in Use, Management and Preservation of Natural Resources
+    - course: M.Sc. In Use, Management and Preservation of Natural Resources
       institution: "Centro de Investigaciones Biológicas del Noroeste (CIBNOR). La
         Paz, B.C.S., México. GPA: 9.65"
       year: 2012
